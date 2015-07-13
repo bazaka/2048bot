@@ -1,0 +1,675 @@
+13-07-2015 00:13:39 INFO [BaseTest]: Open Firefox
+13-07-2015 00:13:39 INFO [BaseTest]: Starting game test
+13-07-2015 00:13:40 INFO [BaseTest]: Open page
+13-07-2015 00:13:40 INFO [BaseTest]: Page is opened
+13-07-2015 00:13:40 INFO [BaseTest]: Page is loaded
+13-07-2015 00:13:41 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:42 INFO [BaseTest]: 
+| 2 | 0 | 0 | 0 | 
+| 4 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+13-07-2015 00:13:42 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:43 INFO [BaseTest]: 
+| 2 | 0 | 0 | 0 | 
+| 4 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+13-07-2015 00:13:43 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:43 INFO [BaseTest]: 
+| 2 | 0 | 0 | 0 | 
+| 4 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+13-07-2015 00:13:44 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:44 INFO [BaseTest]: 
+| 0 | 2 | 0 | 2 | 
+| 0 | 0 | 0 | 4 | 
+| 0 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+13-07-2015 00:13:44 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:45 INFO [BaseTest]: 
+| 4 | 0 | 0 | 0 | 
+| 4 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+| 0 | 4 | 0 | 0 | 
+13-07-2015 00:13:45 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:46 INFO [BaseTest]: 
+| 0 | 0 | 0 | 4 | 
+| 0 | 0 | 0 | 4 | 
+| 0 | 0 | 0 | 0 | 
+| 2 | 0 | 0 | 4 | 
+13-07-2015 00:13:46 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:47 INFO [BaseTest]: 
+| 0 | 0 | 0 | 4 | 
+| 0 | 0 | 0 | 4 | 
+| 0 | 0 | 0 | 0 | 
+| 0 | 2 | 2 | 4 | 
+13-07-2015 00:13:47 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:47 INFO [BaseTest]: 
+| 0 | 0 | 0 | 0 | 
+| 0 | 0 | 4 | 0 | 
+| 0 | 0 | 0 | 4 | 
+| 0 | 2 | 2 | 8 | 
+13-07-2015 00:13:48 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:48 INFO [BaseTest]: 
+| 0 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 4 | 
+| 0 | 0 | 0 | 4 | 
+| 0 | 2 | 4 | 8 | 
+13-07-2015 00:13:49 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:49 INFO [BaseTest]: 
+| 0 | 0 | 0 | 0 | 
+| 4 | 2 | 0 | 0 | 
+| 4 | 0 | 0 | 0 | 
+| 2 | 4 | 8 | 0 | 
+13-07-2015 00:13:49 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:50 INFO [BaseTest]: 
+| 0 | 0 | 0 | 0 | 
+| 4 | 2 | 0 | 0 | 
+| 4 | 0 | 0 | 0 | 
+| 2 | 4 | 8 | 0 | 
+13-07-2015 00:13:50 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:51 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 0 | 0 | 4 | 2 | 
+| 0 | 0 | 0 | 4 | 
+| 0 | 2 | 4 | 8 | 
+13-07-2015 00:13:51 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:52 INFO [BaseTest]: 
+| 2 | 0 | 0 | 0 | 
+| 4 | 2 | 0 | 2 | 
+| 4 | 0 | 0 | 0 | 
+| 2 | 4 | 8 | 0 | 
+13-07-2015 00:13:52 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:53 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 2 | 0 | 0 | 0 | 
+| 8 | 2 | 0 | 0 | 
+| 2 | 4 | 8 | 2 | 
+13-07-2015 00:13:53 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:54 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 4 | 0 | 0 | 2 | 
+| 0 | 0 | 8 | 2 | 
+| 2 | 4 | 8 | 2 | 
+13-07-2015 00:13:54 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:55 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 0 | 0 | 4 | 2 | 
+| 0 | 2 | 8 | 2 | 
+| 2 | 4 | 8 | 2 | 
+13-07-2015 00:13:55 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:56 INFO [BaseTest]: 
+| 0 | 2 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+| 0 | 2 | 4 | 4 | 
+| 2 | 4 | 16 | 4 | 
+13-07-2015 00:13:56 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:57 INFO [BaseTest]: 
+| 0 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+| 0 | 4 | 4 | 2 | 
+| 2 | 4 | 16 | 8 | 
+13-07-2015 00:13:57 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:58 INFO [BaseTest]: 
+| 0 | 2 | 0 | 0 | 
+| 0 | 0 | 0 | 0 | 
+| 0 | 0 | 4 | 2 | 
+| 2 | 8 | 16 | 8 | 
+13-07-2015 00:13:58 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:13:59 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 0 | 0 | 0 | 2 | 
+| 0 | 0 | 4 | 2 | 
+| 2 | 8 | 16 | 8 | 
+13-07-2015 00:13:59 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:00 INFO [BaseTest]: 
+| 2 | 0 | 0 | 0 | 
+| 0 | 0 | 0 | 2 | 
+| 0 | 0 | 4 | 4 | 
+| 2 | 8 | 16 | 8 | 
+13-07-2015 00:14:00 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:01 INFO [BaseTest]: 
+| 4 | 8 | 4 | 2 | 
+| 0 | 0 | 16 | 4 | 
+| 0 | 0 | 4 | 8 | 
+| 0 | 0 | 0 | 0 | 
+13-07-2015 00:14:01 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:02 INFO [BaseTest]: 
+| 4 | 8 | 4 | 2 | 
+| 0 | 0 | 16 | 4 | 
+| 0 | 0 | 4 | 8 | 
+| 0 | 0 | 0 | 0 | 
+13-07-2015 00:14:02 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:03 INFO [BaseTest]: 
+| 0 | 0 | 2 | 0 | 
+| 0 | 0 | 4 | 2 | 
+| 0 | 0 | 16 | 4 | 
+| 4 | 8 | 4 | 8 | 
+13-07-2015 00:14:03 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:03 INFO [BaseTest]: 
+| 0 | 0 | 2 | 0 | 
+| 0 | 0 | 4 | 2 | 
+| 0 | 0 | 16 | 4 | 
+| 4 | 8 | 4 | 8 | 
+13-07-2015 00:14:04 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:04 INFO [BaseTest]: 
+| 0 | 0 | 2 | 0 | 
+| 0 | 0 | 4 | 2 | 
+| 0 | 0 | 16 | 4 | 
+| 4 | 8 | 4 | 8 | 
+13-07-2015 00:14:05 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:05 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 0 | 2 | 4 | 2 | 
+| 0 | 0 | 16 | 4 | 
+| 4 | 8 | 4 | 8 | 
+13-07-2015 00:14:06 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:06 INFO [BaseTest]: 
+| 4 | 2 | 4 | 4 | 
+| 0 | 8 | 16 | 4 | 
+| 0 | 0 | 4 | 8 | 
+| 0 | 0 | 2 | 0 | 
+13-07-2015 00:14:07 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:07 INFO [BaseTest]: 
+| 0 | 4 | 2 | 8 | 
+| 0 | 8 | 16 | 4 | 
+| 0 | 0 | 4 | 8 | 
+| 0 | 0 | 2 | 2 | 
+13-07-2015 00:14:08 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:08 INFO [BaseTest]: 
+| 0 | 4 | 2 | 8 | 
+| 0 | 8 | 16 | 4 | 
+| 0 | 2 | 4 | 8 | 
+| 0 | 0 | 0 | 4 | 
+13-07-2015 00:14:09 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:09 INFO [BaseTest]: 
+| 4 | 2 | 8 | 0 | 
+| 8 | 16 | 4 | 0 | 
+| 2 | 4 | 8 | 2 | 
+| 4 | 0 | 0 | 0 | 
+13-07-2015 00:14:10 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:10 INFO [BaseTest]: 
+| 4 | 2 | 8 | 0 | 
+| 8 | 16 | 4 | 0 | 
+| 2 | 4 | 8 | 2 | 
+| 4 | 0 | 0 | 0 | 
+13-07-2015 00:14:11 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:11 INFO [BaseTest]: 
+| 4 | 2 | 8 | 0 | 
+| 8 | 16 | 4 | 0 | 
+| 2 | 4 | 8 | 2 | 
+| 4 | 0 | 0 | 0 | 
+13-07-2015 00:14:11 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:12 INFO [BaseTest]: 
+| 4 | 2 | 8 | 0 | 
+| 8 | 16 | 4 | 0 | 
+| 2 | 4 | 8 | 2 | 
+| 4 | 0 | 0 | 0 | 
+13-07-2015 00:14:12 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:13 INFO [BaseTest]: 
+| 4 | 2 | 8 | 0 | 
+| 8 | 16 | 4 | 0 | 
+| 2 | 4 | 8 | 2 | 
+| 4 | 0 | 0 | 0 | 
+13-07-2015 00:14:13 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:14 INFO [BaseTest]: 
+| 4 | 2 | 8 | 0 | 
+| 8 | 16 | 4 | 0 | 
+| 2 | 4 | 8 | 2 | 
+| 4 | 0 | 0 | 0 | 
+13-07-2015 00:14:14 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:14 INFO [BaseTest]: 
+| 4 | 2 | 8 | 2 | 
+| 8 | 16 | 4 | 0 | 
+| 2 | 4 | 8 | 0 | 
+| 4 | 0 | 2 | 0 | 
+13-07-2015 00:14:15 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:16 INFO [BaseTest]: 
+| 4 | 2 | 8 | 2 | 
+| 8 | 16 | 4 | 0 | 
+| 2 | 4 | 8 | 0 | 
+| 4 | 0 | 2 | 0 | 
+13-07-2015 00:14:16 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:16 INFO [BaseTest]: 
+| 4 | 2 | 8 | 2 | 
+| 0 | 8 | 16 | 4 | 
+| 2 | 2 | 4 | 8 | 
+| 0 | 0 | 4 | 2 | 
+13-07-2015 00:14:17 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:18 INFO [BaseTest]: 
+| 4 | 2 | 8 | 2 | 
+| 2 | 8 | 16 | 4 | 
+| 0 | 2 | 8 | 8 | 
+| 2 | 0 | 0 | 2 | 
+13-07-2015 00:14:18 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:19 INFO [BaseTest]: 
+| 4 | 2 | 8 | 2 | 
+| 4 | 8 | 16 | 4 | 
+| 0 | 2 | 8 | 8 | 
+| 0 | 2 | 0 | 2 | 
+13-07-2015 00:14:19 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:20 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 0 | 2 | 8 | 4 | 
+| 2 | 8 | 16 | 8 | 
+| 8 | 4 | 8 | 2 | 
+13-07-2015 00:14:21 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:21 INFO [BaseTest]: 
+| 2 | 2 | 8 | 2 | 
+| 8 | 8 | 16 | 4 | 
+| 0 | 4 | 8 | 8 | 
+| 0 | 2 | 0 | 2 | 
+13-07-2015 00:14:21 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:22 INFO [BaseTest]: 
+| 4 | 8 | 2 | 0 | 
+| 16 | 16 | 4 | 0 | 
+| 4 | 16 | 0 | 0 | 
+| 4 | 0 | 0 | 2 | 
+13-07-2015 00:14:23 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:24 INFO [BaseTest]: 
+| 0 | 4 | 8 | 2 | 
+| 0 | 0 | 32 | 4 | 
+| 0 | 0 | 4 | 16 | 
+| 2 | 0 | 4 | 2 | 
+13-07-2015 00:14:24 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:25 INFO [BaseTest]: 
+| 0 | 4 | 8 | 2 | 
+| 0 | 0 | 32 | 4 | 
+| 0 | 2 | 4 | 16 | 
+| 0 | 2 | 4 | 2 | 
+13-07-2015 00:14:25 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:26 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 0 | 2 | 8 | 4 | 
+| 0 | 4 | 32 | 16 | 
+| 0 | 4 | 8 | 2 | 
+13-07-2015 00:14:26 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:27 INFO [BaseTest]: 
+| 0 | 2 | 8 | 2 | 
+| 0 | 8 | 32 | 4 | 
+| 0 | 2 | 8 | 16 | 
+| 0 | 0 | 0 | 2 | 
+13-07-2015 00:14:27 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:28 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 0 | 2 | 8 | 4 | 
+| 2 | 8 | 32 | 16 | 
+| 0 | 2 | 8 | 2 | 
+13-07-2015 00:14:28 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:28 INFO [BaseTest]: 
+| 0 |  | 0 | 2 | 
+| 0 | 2 | 8 | 4 | 
+| 0 | 8 | 32 | 16 | 
+| 2 | 2 | 8 | 2 | 
+13-07-2015 00:14:29 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:30 INFO [BaseTest]: 
+| 0 | 0 | 2 | 2 | 
+| 0 | 4 | 8 | 4 | 
+| 0 | 8 | 32 | 16 | 
+| 2 | 2 | 8 | 2 | 
+13-07-2015 00:14:30 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:31 INFO [BaseTest]: 
+| 0 | 0 | 0 | 4 | 
+| 2 | 4 | 8 | 4 | 
+| 0 | 8 | 32 | 16 | 
+| 0 | 4 | 8 | 2 | 
+13-07-2015 00:14:31 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:32 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 0 | 4 | 8 | 8 | 
+| 0 | 8 | 32 | 16 | 
+| 2 | 4 | 8 | 2 | 
+13-07-2015 00:14:32 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:33 INFO [BaseTest]: 
+| 2 | 0 | 0 | 0 | 
+| 4 | 16 | 0 | 2 | 
+| 8 | 32 | 16 | 0 | 
+| 2 | 4 | 8 | 2 | 
+13-07-2015 00:14:34 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:34 INFO [BaseTest]: 
+|  | 0 | 0 | 2 | 
+| 0 | 4 | 16 | 2 | 
+| 0 | 8 | 32 | 16 | 
+| 2 | 4 | 8 | 2 | 
+13-07-2015 00:14:35 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:35 INFO [BaseTest]: 
+| 0 | 0 | 2 | 0 | 
+| 0 | 4 | 16 | 4 | 
+| 0 | 8 | 32 | 16 | 
+| 4 | 4 | 8 | 2 | 
+13-07-2015 00:14:36 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:36 INFO [BaseTest]: 
+| 4 | 4 | 2 | 4 | 
+| 0 | 8 | 16 | 16 | 
+| 2 | 4 | 32 | 2 | 
+| 0 | 0 | 8 | 0 | 
+13-07-2015 00:14:37 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:37 INFO [BaseTest]: 
+| 4 | 4 | 2 | 4 | 
+| 2 | 8 | 16 | 16 | 
+| 4 | 4 | 32 | 2 | 
+| 0 | 0 | 8 | 0 | 
+13-07-2015 00:14:38 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:38 INFO [BaseTest]: 
+| 8 | 2 | 4 | 0 | 
+| 2 | 8 | 32 | 0 | 
+| 8 | 32 | 2 | 0 | 
+| 8 | 0 | 0 | 4 | 
+13-07-2015 00:14:39 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:39 INFO [BaseTest]: 
+| 0 | 0 | 0 | 0 | 
+| 8 | 2 | 4 | 0 | 
+| 2 | 8 | 32 | 2 | 
+| 16 | 32 | 2 | 4 | 
+13-07-2015 00:14:40 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:40 INFO [BaseTest]: 
+| 0 | 0 | 0 | 2 | 
+| 0 | 8 | 2 | 4 | 
+| 2 | 8 | 32 | 2 | 
+| 16 | 32 | 2 | 4 | 
+13-07-2015 00:14:41 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:41 INFO [BaseTest]: 
+| 2 | 2 | 0 | 0 | 
+| 8 | 2 | 4 | 0 | 
+| 2 | 8 | 32 | 2 | 
+| 16 | 32 | 2 | 4 | 
+13-07-2015 00:14:42 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:42 INFO [BaseTest]: 
+| 4 |  | 0 | 0 | 
+| 8 | 2 | 4 | 0 | 
+| 2 | 8 | 32 | 2 | 
+| 16 | 32 | 2 | 4 | 
+13-07-2015 00:14:43 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:43 INFO [BaseTest]: 
+| 4 | 2 | 0 | 0 | 
+| 8 | 2 | 4 | 0 | 
+| 2 | 8 | 32 | 2 | 
+| 16 | 32 | 2 | 4 | 
+13-07-2015 00:14:44 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:45 INFO [BaseTest]: 
+| 0 | 0 | 4 | 2 | 
+| 2 | 8 | 2 | 4 | 
+| 2 | 8 | 32 | 2 | 
+| 16 | 32 | 2 | 4 | 
+13-07-2015 00:14:45 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:46 INFO [BaseTest]: 
+| 4 | 2 | 2 | 0 | 
+| 2 | 8 | 2 | 4 | 
+| 2 | 8 | 32 | 2 | 
+| 16 | 32 | 2 | 4 | 
+13-07-2015 00:14:46 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:47 INFO [BaseTest]: 
+| 4 | 2 | 4 | 4 | 
+| 4 | 16 | 32 | 2 | 
+| 16 | 32 | 2 | 4 | 
+| 0 | 2 | 0 | 0 | 
+13-07-2015 00:14:47 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:48 INFO [BaseTest]: 
+| 0 | 4 | 2 | 8 | 
+| 4 | 16 | 32 | 2 | 
+| 16 | 32 | 2 | 4 | 
+| 0 | 2 | 0 | 2 | 
+13-07-2015 00:14:48 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:49 INFO [BaseTest]: 
+| 4 | 4 | 2 | 8 | 
+| 16 | 16 | 32 | 2 | 
+| 0 | 32 | 2 | 4 | 
+| 0 | 2 | 2 | 2 | 
+13-07-2015 00:14:49 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:50 INFO [BaseTest]: 
+| 4 | 4 | 2 | 8 | 
+| 16 | 16 | 32 | 2 | 
+| 0 | 32 | 4 | 4 | 
+| 0 | 2 | 2 | 2 | 
+13-07-2015 00:14:50 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:51 INFO [BaseTest]: 
+| 4 | 4 | 2 | 8 | 
+| 16 | 16 | 32 | 2 | 
+| 0 | 32 | 4 | 4 | 
+| 0 | 2 | 2 | 2 | 
+13-07-2015 00:14:51 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:52 INFO [BaseTest]: 
+| 4 | 4 | 2 | 8 | 
+| 16 | 16 | 32 | 2 | 
+| 0 | 32 | 4 | 4 | 
+| 0 | 2 | 2 | 2 | 
+13-07-2015 00:14:52 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:53 INFO [BaseTest]: 
+| 4 | 4 | 2 | 8 | 
+| 16 | 16 | 32 | 2 | 
+| 0 | 32 | 4 | 4 | 
+| 0 | 2 | 2 | 2 | 
+13-07-2015 00:14:53 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:54 INFO [BaseTest]: 
+| 4 | 4 | 2 | 8 | 
+| 16 | 16 | 32 | 2 | 
+| 0 | 32 | 4 | 4 | 
+| 0 | 2 | 2 | 2 | 
+13-07-2015 00:14:54 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:55 INFO [BaseTest]: 
+| 0 | 8 | 2 | 8 | 
+| 2 | 32 | 32 | 2 | 
+| 0 | 0 | 32 | 8 | 
+| 0 | 0 | 2 | 4 | 
+13-07-2015 00:14:55 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:56 INFO [BaseTest]: 
+|  | 8 | 2 | 8 | 
+| 0 | 2 | 64 | 2 | 
+| 0 | 0 | 32 | 8 | 
+| 0 | 0 | 2 | 4 | 
+13-07-2015 00:14:56 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:57 INFO [BaseTest]: 
+| 2 | 8 | 2 | 8 | 
+| 0 | 2 | 64 | 2 | 
+| 0 | 0 | 32 | 8 | 
+| 0 | 0 | 2 | 4 | 
+13-07-2015 00:14:57 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:58 INFO [BaseTest]: 
+| 2 | 8 | 2 | 8 | 
+| 0 | 2 | 64 | 2 | 
+| 0 | 0 | 32 | 8 | 
+| 0 | 0 | 2 | 4 | 
+13-07-2015 00:14:58 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:58 INFO [BaseTest]: 
+| 2 | 8 | 2 | 8 | 
+| 0 | 2 | 64 | 2 | 
+| 0 | 0 | 32 | 8 | 
+| 0 | 0 | 2 | 4 | 
+13-07-2015 00:14:59 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:14:59 INFO [BaseTest]: 
+| 2 | 8 | 2 | 8 | 
+| 0 | 2 | 64 | 2 | 
+| 0 | 0 | 32 | 8 | 
+| 0 | 0 | 2 | 4 | 
+13-07-2015 00:15:00 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:00 INFO [BaseTest]: 
+| 0 | 2 | 2 | 8 | 
+| 0 | 0 | 64 | 2 | 
+| 0 | 8 | 32 | 8 | 
+| 2 | 2 | 2 | 4 | 
+13-07-2015 00:15:01 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:01 INFO [BaseTest]: 
+|  | 0 | 2 | 8 | 
+| 0 | 2 | 64 | 2 | 
+| 0 | 8 | 32 | 8 | 
+| 2 | 2 | 2 | 4 | 
+13-07-2015 00:15:02 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:03 INFO [BaseTest]: 
+| 4 | 8 | 0 | 2 | 
+| 2 | 64 | 2 | 0 | 
+| 8 | 32 | 8 | 0 | 
+| 4 | 2 | 4 | 0 | 
+13-07-2015 00:15:03 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:04 INFO [BaseTest]: 
+| 4 | 8 | 2 | 2 | 
+| 2 | 64 | 8 | 4 | 
+| 8 | 32 | 4 | 0 | 
+| 4 | 2 | 0 | 0 | 
+13-07-2015 00:15:04 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:05 INFO [BaseTest]: 
+| 4 | 8 | 4 | 4 | 
+| 2 | 64 | 8 | 4 | 
+| 8 | 32 | 4 | 0 | 
+| 4 | 2 | 0 | 0 | 
+13-07-2015 00:15:05 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:07 INFO [BaseTest]: 
+| 4 | 8 | 8 | 0 | 
+| 2 | 64 | 8 | 4 | 
+| 8 | 32 | 4 | 0 | 
+| 4 | 2 | 2 | 0 | 
+13-07-2015 00:15:07 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:08 INFO [BaseTest]: 
+| 4 | 16 | 0 | 0 | 
+| 2 | 64 | 8 | 4 | 
+| 8 | 32 | 4 | 0 | 
+| 4 | 4 | 0 | 2 | 
+13-07-2015 00:15:08 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:09 INFO [BaseTest]: 
+| 4 | 16 | 8 | 4 | 
+| 2 | 64 | 4 | 2 | 
+| 8 | 32 | 0 | 0 | 
+| 4 | 4 | 2 | 0 | 
+13-07-2015 00:15:09 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:10 INFO [BaseTest]: 
+| 4 | 16 | 8 | 4 | 
+| 2 | 64 | 4 | 2 | 
+| 8 | 32 | 2 | 0 | 
+| 4 | 4 | 2 | 0 | 
+13-07-2015 00:15:11 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:11 INFO [BaseTest]: 
+| 4 | 16 | 8 | 4 | 
+| 2 | 64 | 4 | 2 | 
+| 8 | 32 | 4 | 0 | 
+| 4 | 4 | 0 | 2 | 
+13-07-2015 00:15:12 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:12 INFO [BaseTest]: 
+| 4 | 16 | 8 | 4 | 
+| 2 | 64 | 4 | 2 | 
+| 0 | 8 | 32 | 4 | 
+| 0 | 2 | 8 | 2 | 
+13-07-2015 00:15:13 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:13 INFO [BaseTest]: 
+| 4 | 16 | 8 | 4 | 
+| 2 | 64 | 4 | 2 | 
+| 8 | 32 | 4 | 0 | 
+| 2 | 8 | 2 | 2 | 
+13-07-2015 00:15:14 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:15 INFO [BaseTest]: 
+| 4 | 16 | 8 | 4 | 
+| 2 | 64 | 8 | 4 | 
+| 8 | 32 | 2 | 2 | 
+| 2 | 8 | 0 | 0 | 
+13-07-2015 00:15:15 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:16 INFO [BaseTest]: 
+| 4 | 16 | 8 | 4 | 
+| 2 | 64 | 8 | 4 | 
+| 2 | 8 | 32 | 4 | 
+| 0 | 0 | 2 | 8 | 
+13-07-2015 00:15:16 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:17 INFO [BaseTest]: 
+| 4 | 16 | 8 | 4 | 
+| 2 | 64 | 8 | 4 | 
+| 2 | 8 | 32 | 4 | 
+| 2 | 8 | 2 | 0 | 
+13-07-2015 00:15:17 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:18 INFO [BaseTest]: 
+| 4 | 16 | 8 | 4 | 
+| 2 | 64 | 8 | 4 | 
+| 2 | 8 | 32 | 4 | 
+| 2 | 2 | 8 | 2 | 
+13-07-2015 00:15:18 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:19 INFO [BaseTest]: 
+| 0 | 16 | 0 | 2 | 
+| 4 | 64 | 16 | 4 | 
+| 2 | 8 | 32 | 8 | 
+| 4 | 2 | 8 | 2 | 
+13-07-2015 00:15:19 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:20 INFO [BaseTest]: 
+| 0 | 4 | 16 | 2 | 
+| 4 | 64 | 16 | 4 | 
+| 2 | 8 | 32 | 8 | 
+| 4 | 2 | 8 | 2 | 
+13-07-2015 00:15:21 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:21 INFO [BaseTest]: 
+| 4 | 16 | 2 | 2 | 
+| 4 | 64 | 16 | 4 | 
+| 2 | 8 | 32 | 8 | 
+| 4 | 2 | 8 | 2 | 
+13-07-2015 00:15:22 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:22 INFO [BaseTest]: 
+| 8 | 16 | 2 | 2 | 
+| 2 | 64 | 16 | 4 | 
+| 4 | 8 | 32 | 8 | 
+| 2 | 2 | 8 | 2 | 
+13-07-2015 00:15:23 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:23 INFO [BaseTest]: 
+| 8 | 16 | 2 | 2 | 
+| 2 | 64 | 16 | 4 | 
+| 4 | 8 | 32 | 8 | 
+| 2 | 2 | 8 | 2 | 
+13-07-2015 00:15:24 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:25 INFO [BaseTest]: 
+| 8 | 16 | 4 | 0 | 
+| 2 | 64 | 16 | 4 | 
+| 4 | 8 | 32 | 8 | 
+| 4 | 8 | 2 | 2 | 
+13-07-2015 00:15:26 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:26 INFO [BaseTest]: 
+| 8 | 16 | 4 | 4 | 
+| 2 | 64 | 16 | 8 | 
+| 8 | 16 | 32 | 2 | 
+| 0 | 2 | 2 | 0 | 
+13-07-2015 00:15:27 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:27 INFO [BaseTest]: 
+| 8 | 16 | 4 | 4 | 
+| 2 | 64 | 16 | 8 | 
+| 8 | 16 | 32 | 2 | 
+| 0 | 2 | 2 | 0 | 
+13-07-2015 00:15:28 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:28 INFO [BaseTest]: 
+| 0 | 16 | 4 | 2 | 
+| 8 | 64 | 16 | 4 | 
+| 2 | 16 | 32 | 8 | 
+| 8 | 2 | 2 | 2 | 
+13-07-2015 00:15:29 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:29 INFO [BaseTest]: 
+| 8 | 16 | 4 | 2 | 
+| 2 | 64 | 16 | 4 | 
+| 8 | 16 | 32 | 8 | 
+| 2 | 2 | 2 | 2 | 
+13-07-2015 00:15:30 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:30 INFO [BaseTest]: 
+| 8 | 16 | 4 | 2 | 
+| 2 | 64 | 16 | 4 | 
+| 8 | 16 | 32 | 8 | 
+| 0 | 2 | 4 | 4 | 
+13-07-2015 00:15:31 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:32 INFO [BaseTest]: 
+|  | 16 | 4 | 2 | 
+| 8 | 64 | 16 | 4 | 
+| 2 | 16 | 32 | 8 | 
+| 8 | 2 | 4 | 4 | 
+13-07-2015 00:15:32 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:32 INFO [BaseTest]: 
+| 2 | 16 | 4 | 2 | 
+| 8 | 64 | 16 | 4 | 
+| 2 | 16 | 32 | 8 | 
+| 8 | 2 | 4 | 4 | 
+13-07-2015 00:15:33 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:34 INFO [BaseTest]: 
+| 2 | 16 | 4 | 2 | 
+| 8 | 64 | 16 | 4 | 
+| 2 | 16 | 32 | 8 | 
+| 8 | 2 | 4 | 4 | 
+13-07-2015 00:15:34 INFO [BaseTest]: Random arrow is pushed
+13-07-2015 00:15:35 INFO [BaseTest]: 
+| 2 | 16 | 4 | 2 | 
+| 8 | 64 | 16 | 4 | 
+| 2 | 16 | 32 | 8 | 
+| 8 | 2 | 8 | 2 | 
+13-07-2015 00:15:35 INFO [BaseTest]: Game over
+13-07-2015 00:15:35 INFO [BaseTest]: Current score: 628
+13-07-2015 00:15:35 INFO [BaseTest]: Test successfully passed
+13-07-2015 00:15:35 INFO [BaseTest]: Close Firefox
